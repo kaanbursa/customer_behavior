@@ -8,9 +8,9 @@ We wanted to create a proudct for Santander Bank which would increase their mark
 
 ## Notebooks
 
-1. santander_preprocess.ipnby is used for cleaning the dataset and preprocessing
-2. EDA.ipnby is our notebook where we explore the dataset categorize try to extract meaning from visualization and informations.
-3. Model.ipnby notebook is our notebook where we run different models to find the best predictor models
+1. preprocess.ipynb is used for cleaning the dataset and preprocessing
+2. EDA.ipynb is our notebook where we explore the dataset categorize try to extract meaning from visualization and informations.
+3. model.ipynb notebook is our notebook where we run different models to find the best predictor models
 
 
 ## Data Understanding
