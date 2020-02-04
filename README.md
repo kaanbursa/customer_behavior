@@ -2,7 +2,7 @@
 
 ## Summary
 
-![Santander Bank](front_page.png)
+![Santander Bank](./front_page.png)
 
 We wanted to create a proudct for Santander Bank which would increase their marketing efficiency. Santander Bank offer variety of products and has collected millions of data from old customers. We get our dataset from [Santander Bank's Kaggle challenge](https://www.kaggle.com/c/santander-product-recommendation) . Our goal was to train a model which would recommend current account to upcoming customers.
 
