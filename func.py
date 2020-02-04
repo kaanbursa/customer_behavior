@@ -5,7 +5,6 @@ import numpy as np
 import matplotlib.pyplot as plt
 from sklearn.metrics import roc_auc_score
 from sklearn.metrics import roc_curve
-from sklearn.metrics import accuracy_score, confusion_matrix, classification_report, plot_confusion_matrix
 
 def display_all(df):
     """Display all the columns
